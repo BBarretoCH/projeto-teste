@@ -41,8 +41,8 @@ a.external::after {
 
 header {
     background-image: linear-gradient(to bottom, var(--cor1), var(--cor5) ) ;
-    height: 130px;
-    padding: 40px 0px;
+    height: auto;
+    padding: 20px 0px;
     text-align: Center;    
 }
 
@@ -58,6 +58,7 @@ header p {
     color: white;
     text-align: center;
     font-size: 1.5em;
+    padding-bottom: 30px;
 }
 
 nav {
